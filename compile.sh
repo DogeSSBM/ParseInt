@@ -1,2 +1,2 @@
 printf "\033c"
-gcc example.c -o example.out
+gcc getInt\ example.c -o example.out
